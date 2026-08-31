@@ -12,3 +12,5 @@ management:
     web:
       exposure:
         include: "*"
+
+message: "This is test message from config server"
